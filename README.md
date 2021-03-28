@@ -1,2 +1,2 @@
-# m-b.com
+# mob.com
 "mob.com - money over bitches"
