@@ -1,5 +1,5 @@
 ---
-title: 'mob.com: A don Federation Company' featured_image: '/images/gohugo-default-sample-hero-image.jpg' description: "
+title: 'mob.com: XIΞLΞVAN SOLUTIONS' featured_image: '/images/gohugo-default-sample-hero-image.jpg' description: "
 mob.com is under construction."
 ---
 
